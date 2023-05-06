@@ -5,14 +5,23 @@
     position: fixed;
     z-index: 99999;
 }
-
-
+body{
+    font-family: Roboto;
+    font-style: italic;
+}
+.f-galada{
+    font-family: 'Galada', cursive;
+}
 .sliderText h1 {
-
+    font-family: 'Galada', cursive;
     font-size: 20px;
     margin-top: 5px;
 
 }
 .services_text{
     text-align: left;
+    font-weight: bold;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    list-style-type: square;
 }
