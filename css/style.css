@@ -5,21 +5,30 @@
     position: fixed;
     z-index: 99999;
 }
-body{
+
+body {
     font-family: Roboto;
     background-color: #edececd8;
     /* font-style: italic; */
 }
-.f-galada{
+
+.f-galada {
     font-family: 'Galada', cursive;
 }
+
 .sliderText h1 {
     font-family: 'Galada', cursive;
     font-size: 20px;
     margin-top: 5px;
 
 }
-.services_text{
+
+.hover:hover{
+    text-decoration: underline !important;
+
+}
+
+.services_text {
     text-align: left;
     font-weight: 500;
     font-size: normal;
